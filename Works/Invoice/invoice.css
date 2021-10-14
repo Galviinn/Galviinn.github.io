@@ -1,0 +1,128 @@
+html{
+    font-family: sans-serif;
+}
+
+pre{
+    font-family: sans-serif;
+}
+
+#head  {
+    display: inline;
+}
+
+#top{
+    text-align: left;
+}
+
+#logo{
+    float: right;
+}
+
+th.top{
+    text-align: right;
+}
+
+td.top{
+    border: 2px solid black;
+    text-align: center;
+    width: 50%;
+}
+
+th.thmid{
+    text-align: left;
+    border: 2px solid rgb(57, 88, 45);
+    background-color: rgb(57, 88, 45);
+    color: white;
+    width: 50%;
+}
+
+table.tablemid{
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+tr.trmid:nth-child(odd){
+    background-color: #d0dfc5;
+    height: 20px;
+}
+
+tr.trmid:nth-child(even){
+    height: 20px;
+}
+
+.taxed{
+    text-align: center;
+}
+
+.amount{
+    text-align: right;
+}
+
+#tot{
+    float: right;
+    border-spacing: 2px;
+}
+
+td.subtotal1{
+    text-align: right;
+}
+
+td.subtotal{
+    text-align: right;
+    width: 70%;
+}
+td.subtotal2{
+    text-align: right;
+    border: 1px solid black;
+    width: 70%;
+}
+td.subtotalend1{
+    text-align: right;
+    border-bottom: 2px solid black;
+}
+td.subtotalend2{
+    text-align: right;
+    border: 1px solid black;
+    width: 70%;
+    border-bottom: 2px solid black;
+}
+td.subtotalend3{
+    text-align: right;
+    border-top: 2px solid black;
+}
+td.subtotalend4{
+    text-align: right;
+    border: 1px solid black;
+    width: 70%;
+    border-top: 2px solid black;
+    background-color: #d0dfc5;
+}
+
+#tail{
+    display: inline;
+}
+tr.trbot{
+    border: 2px solid rgb(57, 88, 45);
+    background-color: rgb(57, 88, 45);
+    color: white;
+    width: 50%;
+    height: 30px;
+    text-align: left;
+}
+tr.trbotdummy{
+    height: 20px;
+}
+
+#finish{
+    text-align: center;
+    line-height: normal;
+    width: 100%;
+}
+p.closer1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2.closerbye{
+    font-family: Comic Sans Ms;
+    line-height: normal;
+}
