@@ -90,3 +90,7 @@ input:hover{
     border-color: rgb(3, 133, 255);
     transition: 1s ease;
 }
+textarea:hover{
+    border-color: rgb(3, 133, 255);
+    transition: 1s ease;
+}
