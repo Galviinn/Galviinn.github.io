@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://storage.googleapis.com/galvin-web-asset/profile-background.jpg") top center;
+  background: url("../img/background.jpg") top center;
   background-size: cover;
 }
 
